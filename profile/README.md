@@ -29,8 +29,8 @@ The core of our organizational logic lies in the bridge between archaeology and 
 | Archaeology | Generation | Logic |
 | :---: | :---: | :---: |
 | ![Archaeology](profile/pillar_archaeology.png) | ![Generation](profile/pillar_generation.png) | ![Logic](profile/pillar_logic.png) |
-| [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Chronos-X**](https://github.com/ez-fundation/chronos-X) |
-| *Decrypting the Past* | *Seeding the Future* | *Timeless Execution* |
+| [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Eon-Chess**](https://github.com/ez-fundation/eon-chess-v1) |
+| *Decrypting the Past* | *Seeding the Future* | *Algorithmic Mastery* |
 
 ---
 
@@ -43,7 +43,7 @@ graph TD
     B -->|Semantic Bridge| C["{ Intent Tokens }"]
     C -->|Generation| D["EZ-Studios Engine"]
     D -->|Deployment| E["Modern Interactive Media"]
-    F["Chronos-X (Logic)"] -.->|Pure Algorithms| B
+    F["Eon-Chess (Logic)"] -.->|Pure Algorithms| B
     F -.->|Pure Algorithms| D
     
     style B fill:#00ff00,stroke:#000,stroke-width:2px,color:#000

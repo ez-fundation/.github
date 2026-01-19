@@ -29,8 +29,8 @@ O núcleo da nossa lógica organizacional reside na ponte entre a arqueologia e 
 | Arqueologia | Geração | Lógica |
 | :---: | :---: | :---: |
 | ![Arqueologia](profile/pillar_archaeology.png) | ![Geração](profile/pillar_generation.png) | ![Lógica](profile/pillar_logic.png) |
-| [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Chronos-X**](https://github.com/ez-fundation/chronos-X) |
-| *Decifrando o Passado* | *Semeando o Futuro* | *Execução Atemporal* |
+| [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Eon-Chess**](https://github.com/ez-fundation/eon-chess-v1) |
+| *Decifrando o Passado* | *Semeando o Futuro* | *Maestria Algorítmica* |
 
 ---
 
@@ -43,7 +43,7 @@ graph TD
     B -->|Ponte Semântica| C["{ Tokens de Intenção }"]
     C -->|Geração| D["EZ-Studios Engine"]
     D -->|Implantação| E["Mídia Interativa Moderna"]
-    F["Chronos-X (Lógica)"] -.->|Algoritmos Puros| B
+    F["Eon-Chess (Lógica)"] -.->|Algoritmos Puros| B
     F -.->|Algoritmos Puros| D
     
     style B fill:#00ff00,stroke:#000,stroke-width:2px,color:#000
