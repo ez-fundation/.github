@@ -30,7 +30,7 @@ The core of our organizational logic lies in the bridge between archaeology and 
 | :---: | :---: | :---: |
 | ![Archaeology](profile/pillar_archaeology.png) | ![Generation](profile/pillar_generation.png) | ![Logic](profile/pillar_logic.png) |
 | [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Eon-Chess**](https://github.com/ez-fundation/eon-chess-v1) |
-| *Decrypting the Past* | *Seeding the Future* | *Algorithmic Mastery* |
+| *Decrypting the Past* | *Seeding the Future* | *Distilled Pure Logic* |
 
 ---
 

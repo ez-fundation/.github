@@ -30,7 +30,7 @@ O núcleo da nossa lógica organizacional reside na ponte entre a arqueologia e 
 | :---: | :---: | :---: |
 | ![Arqueologia](profile/pillar_archaeology.png) | ![Geração](profile/pillar_generation.png) | ![Lógica](profile/pillar_logic.png) |
 | [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Eon-Chess**](https://github.com/ez-fundation/eon-chess-v1) |
-| *Decifrando o Passado* | *Semeando o Futuro* | *Maestria Algorítmica* |
+| *Decifrando o Passado* | *Semeando o Futuro* | *Lógica Pura Destilada* |
 
 ---
 
