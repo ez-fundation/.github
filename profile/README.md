@@ -17,11 +17,11 @@ Our mission is to build the **Universal Infrastructure of Creation**, where algo
 
 ## 💎 The Ecosystem Pillars
 
-| Pillar | Core Engine | Focus | Philosophy |
-| :--- | :--- | :--- | :--- |
-| **Archaeology** | [**AION-Core**](https://github.com/ez-fundation/aion-core) | Logic Restoration | *Decrypting the Past* |
-| **Generation** | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | Procedural Synthesis | *Seeding the Future* |
-| **Logic** | [**Chronos-X**](https://github.com/ez-fundation/chronos-X) | Algorithmic Purity | *Timeless Execution* |
+| Archaeology | Generation | Logic |
+| :---: | :---: | :---: |
+| ![Archaeology](profile/pillar_archaeology.png) | ![Generation](profile/pillar_generation.png) | ![Logic](profile/pillar_logic.png) |
+| [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Chronos-X**](https://github.com/ez-fundation/chronos-X) |
+| *Decrypting the Past* | *Seeding the Future* | *Timeless Execution* |
 
 ---
 
