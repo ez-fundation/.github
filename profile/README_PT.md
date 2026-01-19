@@ -2,7 +2,7 @@
 
 > **Preservando a História Criativa. Semeando Futuros Procedurais.**
 
-![EZ-Fundation Hero](profile/org_hero.png)
+![EZ-Fundation Hero](org_hero.png)
 
 [**English**](profile/README.md) | [**Português**](profile/README_PT.md)
 
@@ -21,14 +21,14 @@ Nossa missão é construir a **Infraestrutura Universal de Criação**, onde alg
 O núcleo da nossa lógica organizacional reside na ponte entre a arqueologia e a criação.
 
 <p align="center">
-  <img src="profile/evolution_map.svg" width="800" alt="Ciclo de Evolução EZ-Fundation">
+  <img src="evolution_map.svg" width="800" alt="Ciclo de Evolução EZ-Fundation">
 </p>
 
 ## 💎 Os Pilares do Ecossistema
 
 | Arqueologia | Geração | Lógica |
 | :---: | :---: | :---: |
-| ![Arqueologia](profile/pillar_archaeology.png) | ![Geração](profile/pillar_generation.png) | ![Lógica](profile/pillar_logic.png) |
+| ![Arqueologia](pillar_archaeology.png) | ![Geração](pillar_generation.png) | ![Lógica](pillar_logic.png) |
 | [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Eon-Chess**](https://github.com/ez-fundation/eon-chess-v1) |
 | *Decifrando o Passado* | *Semeando o Futuro* | *Lógica Pura Destilada* |
 

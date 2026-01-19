@@ -2,7 +2,7 @@
 
 > **Preserving Creative History. Seeding Procedural Futures.**
 
-![EZ-Fundation Hero](profile/org_hero.png)
+![EZ-Fundation Hero](org_hero.png)
 
 [**English**](profile/README.md) | [**Português**](profile/README_PT.md)
 
@@ -21,14 +21,14 @@ Our mission is to build the **Universal Infrastructure of Creation**, where algo
 The core of our organizational logic lies in the bridge between archaeology and creation.
 
 <p align="center">
-  <img src="profile/evolution_map.svg" width="800" alt="EZ-Fundation Evolution Cycle">
+  <img src="evolution_map.svg" width="800" alt="EZ-Fundation Evolution Cycle">
 </p>
 
 ## 💎 The Ecosystem Pillars
 
 | Archaeology | Generation | Logic |
 | :---: | :---: | :---: |
-| ![Archaeology](profile/pillar_archaeology.png) | ![Generation](profile/pillar_generation.png) | ![Logic](profile/pillar_logic.png) |
+| ![Archaeology](pillar_archaeology.png) | ![Generation](pillar_generation.png) | ![Logic](pillar_logic.png) |
 | [**AION-Core**](https://github.com/ez-fundation/aion-core) | [**EZ-Studios-Core**](https://github.com/ez-fundation/ez-studios-core) | [**Eon-Chess**](https://github.com/ez-fundation/eon-chess-v1) |
 | *Decrypting the Past* | *Seeding the Future* | *Distilled Pure Logic* |
 
