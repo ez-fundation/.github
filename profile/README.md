@@ -9,11 +9,20 @@
 ---
 
 ## 🏛️ Mission & Vision
-EZ-Fundation is a research and development collective dedicated to the **Isomorphic Preservation of Software**. We believe that code is the DNA of human creativity, and it shouldn't be lost to hardware obsolescence or digital decay.
+
+> [!IMPORTANT]
+> **EZ-Fundation** is a research and development collective dedicated to the **Isomorphic Preservation of Software**. We believe that code is the DNA of human creativity, and it shouldn't be lost to hardware obsolescence or digital decay.
 
 Our mission is to build the **Universal Infrastructure of Creation**, where algorithms are prioritized over static assets, and logic is mathematically preserved for generations to come.
 
 ---
+
+## 🔬 The "Symbeon" Protocol
+The core of our organizational logic lies in the bridge between archaeology and creation.
+
+<p align="center">
+  <img src="profile/evolution_map.svg" width="800" alt="EZ-Fundation Evolution Cycle">
+</p>
 
 ## 💎 The Ecosystem Pillars
 
