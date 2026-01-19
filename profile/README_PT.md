@@ -26,7 +26,22 @@ Nossa missão é construir a **Infraestrutura Universal de Criação**, onde alg
 ---
 
 ## 🔬 A Estratégia "Symbeon"
-Utilizamos a **Estratégia Symbeon** (Evolução Simbiótica):
+Utilizamos a **Estratégia Symbeon** (Evolução Simbiótica) para unir a história digital com a criação futura:
+
+```mermaid
+graph TD
+    A["Artefatos Binários (Legado)"] -->|Arqueologia| B["AION Engine"]
+    B -->|Ponte Semântica| C["{ Tokens de Intenção }"]
+    C -->|Geração| D["EZ-Studios Engine"]
+    D -->|Implantação| E["Mídia Interativa Moderna"]
+    F["Chronos-X (Lógica)"] -.->|Algoritmos Puros| B
+    F -.->|Algoritmos Puros| D
+    
+    style B fill:#00ff00,stroke:#000,stroke-width:2px,color:#000
+    style D fill:#7b2ff7,stroke:#000,stroke-width:2px,color:#fff
+    style C fill:#fff,stroke:#333,stroke-dasharray: 5 5
+```
+
 1.  **Extração:** Recuperar lógica core de binários legados usando a Análise Algébrica do AION.
 2.  **Ponte:** Transcrever as descobertas em "Intenções" de alto nível.
 3.  **Geração:** Implementar novas experiências interativas modernas via motor EZ-Studios.
